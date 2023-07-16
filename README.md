@@ -1,0 +1,2 @@
+# testesAleatoriosDeJavaEPython
+aprendendo a editar
